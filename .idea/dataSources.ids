@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Django default" product="" version="" jdbc-version="" driver-name="" driver-version="" uuid="48615ec9-cd77-4dc9-92ea-2229593a87d3">
+    <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+    <jdbc-url>jdbc:postgresql:$PROJECT_DIR$/db.sqlite3</jdbc-url>
+    <libraries/>
+  </data-source>
+</component>
