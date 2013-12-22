@@ -52,19 +52,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="settings.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="settings.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/banana/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="18" selection-start="775" selection-end="775" vertical-scroll-proportion="0.25619835" vertical-offset="219" max-vertical-offset="1500">
+            <state line="27" column="18" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/banana/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="41" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+            <state line="16" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.3305785" vertical-offset="0" max-vertical-offset="726">
               <folding />
             </state>
           </provider>
@@ -96,8 +96,8 @@
         <option value="$PROJECT_DIR$/banana/urls.py" />
         <option value="$PROJECT_DIR$/banana/templates/dateapp/includefile.html" />
         <option value="$PROJECT_DIR$/banana/templates/current_datetime.html" />
-        <option value="$PROJECT_DIR$/banana/models.py" />
         <option value="$PROJECT_DIR$/banana/settings.py" />
+        <option value="$PROJECT_DIR$/banana/models.py" />
       </list>
     </option>
   </component>
@@ -511,16 +511,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/banana/models.py">
+    <entry file="file://$PROJECT_DIR$/banana/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="41" selection-start="688" selection-end="688" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+        <state line="27" column="18" selection-start="775" selection-end="775" vertical-scroll-proportion="0.0" vertical-offset="219" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/banana/settings.py">
+    <entry file="file://$PROJECT_DIR$/banana/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="18" selection-start="775" selection-end="775" vertical-scroll-proportion="0.25619835" vertical-offset="219" max-vertical-offset="1500">
+        <state line="16" column="0" selection-start="423" selection-end="423" vertical-scroll-proportion="0.3305785" vertical-offset="0" max-vertical-offset="726">
           <folding />
         </state>
       </provider>
